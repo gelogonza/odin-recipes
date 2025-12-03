@@ -4,3 +4,9 @@
 - basic html structure
 - images
 - alt description
+
+  -----
+  ## Recipes include:
+  - Buffalo Chicken Dip
+  - Smashburger
+  - Tacos al Pastor
